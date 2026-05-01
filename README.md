@@ -96,8 +96,8 @@ This project demonstrates:
 
 ## 9. Information:
 
-Author: Ali Hosen Asif
-Version: 1.0
-Date: May 1, 2026
+>>Author: Ali Hosen Asif
+>>Version: 1.0
+>>Date: May 1, 2026
 
 Thank you.
