@@ -1,14 +1,7 @@
 
 /*
- This is a Terminal Based Tic_Tac_Toe_ai game
- 
-
-
-
-
+ This is the main entry point...
 */
-
-
 
 package asif.ttt;
 
