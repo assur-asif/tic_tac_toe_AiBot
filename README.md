@@ -94,7 +94,7 @@ This project demonstrates:
 - Use of the Minimax algorithm
 - User interaction in a terminal environment
 
-# 9. Information:
+## 9. Information:
 
 Author: Ali Hosen Asif
 Version: 1.0
