@@ -10,8 +10,11 @@ It is a terminal-based game where a human player competes against an AI that use
 ## 2. Running the Game
 
 -First, I compile the project:
+
 -javac asif/ttt/*.java
+
 -Then I run the game:
+
 -java asif.ttt.App
 
 ## 3. Game Start
@@ -97,7 +100,9 @@ This project demonstrates:
 ## 9. Information:
 
 -Name: Ali Hosen Asif
+
 -Version:1.0
+
 -Date: May 1, 2026
 
 Thank you.
